@@ -1,0 +1,48 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.main{
+    display: inline-block;
+    text-align: center;
+    width: 95%;
+    height: 100%;
+    margin: 20px;
+    background-color:rgb(58, 86, 81);
+    border-end-end-radius: 20px;
+    border-end-start-radius: 20px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;}
+.main h1{
+    text-align: center;
+    color: gold;
+    padding-top: 50px;
+}
+.main textarea{
+    text-align: center;
+    padding-top:80px;
+    border-radius: 25%;
+    border-end-end-radius: 20px;
+    border-end-start-radius: 20px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border: 5px solid gray;
+}
+.main button{
+    text-align: center;
+    
+    border-end-end-radius: 20px;
+    border-end-start-radius: 20px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    border: 3px solid gray;
+    width: 150px;
+    height: 50px;
+font-size: 20px;
+color: gold;
+font-family: fantasy;
+}
+.main button:hover{
+    background-color: gold;
+    color: gray;
+}

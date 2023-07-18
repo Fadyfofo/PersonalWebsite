@@ -1,0 +1,92 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+  .main-center{
+    background-image:url(./images/3.jpg);
+    background-size: cover;
+    background-blend-mode:darken;
+    float:center;
+    display: inline-block;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+    border-end-end-radius: 20px;
+    border-end-start-radius: 20px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+  }
+  .photo{
+    float:left;
+    display: inline-block;
+    text-align: center;
+    width: 48%;
+    height: 33pc;
+    
+  }
+  .ph1{
+    width: 15pc;
+    height: 30pc;
+  }
+  .info{
+    float:right;
+    display: inline-block;
+    text-align: center;
+    width: 48%;
+    height: 30pc;
+    
+  }
+  .ph2
+    {width: 200px;
+        height: 200px;
+    border-radius: 50%;
+    padding: 40px;
+    
+  }
+  .hallo {
+    width: fit-content;
+    padding-inline: 60px;
+    font-size: 20px;
+    color: yellow ;
+    background-color: gray;  
+    width: 3px;
+    margin-left: 30px;
+  }
+  .hallo p{
+    margin-left: -20px;
+  }
+  .myname p{
+    width: fit-content;
+    padding-inline: 110px;
+    float:none;
+    color: blue; 
+    text-align: center;
+    font-size: 20px;
+}
+.fady p{
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:italic;
+    color: gold;
+}
+.job p{
+    font-size: 20px;
+    font-family:fantasy;
+    color: gray;
+    margin-left: 20px;
+}
+.a{
+    width: 20px;
+    height: 20px;
+}
+.icon {
+    font-family: "Font Awesome";
+    text-align: left;
+    margin: 20px;
+    line-height: 10px;
+    font-size: 18px;
+  }
+  .left :hover{
+    transform: scale(2);
+  }
+ 

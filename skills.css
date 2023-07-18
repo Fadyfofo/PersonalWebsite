@@ -1,0 +1,66 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.skills{
+    display: inline-block;
+    text-align: center;
+    width: 95%;
+    height: 100%;
+    margin: 20px;
+    background-color:rgb(58, 86, 81);
+    border-end-end-radius: 20px;
+    border-end-start-radius: 20px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+}
+.main {
+  width: 50%;
+  background-color: #ddd;
+  text-align: center;
+  display: inline-block;
+  float: left;
+}
+.skills p{
+    text-align: left;
+    font-size: 25px;
+    width: 40%;
+}
+.skills h1{
+    text-align: center;
+    color: gold;
+    font-family: fantasy;
+    font-size: 50px;
+}
+.html {
+    width: 90%;
+    background-color: #f1e606;} 
+.html5 {
+    width: 80%;
+    background-color: #ebff69;} 
+.css {
+    width: 70%;
+    background-color:#b4c41ece;} 
+.css3 {
+    width: 60%;
+    background-color:#9da305;}
+.right{
+    width:40%;
+    display: inline-block;
+    float: right;
+}     
+.right img{
+    width: 150px;
+    height: 150px;
+    padding: 20px;
+    padding-left:-70px;
+}
+    .img img{
+        width: 120px;
+        height: 120px;
+        padding: 20px;
+        border-radius: 50%;
+    }
+    .html img .image:hover{
+        transform: scale(1.5);
+    }
